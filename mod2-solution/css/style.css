@@ -1,6 +1,8 @@
 
 *{
     box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1{
@@ -31,6 +33,11 @@ p{
     position: relative;
     top: 0px;
     right: 20px;
+}
+
+#menu-description3{
+    text-justify: auto;
+    padding: 20px 20px 20px 20px;
 }
 
 
