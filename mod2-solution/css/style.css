@@ -18,9 +18,11 @@ div#container1{
 }
 div#container2{
     background-color: bisque;
+    position: relative;
 }
 div#container3{
     background-color:blanchedalmond;
+    position: relative;
 }
 
 p{
@@ -33,17 +35,17 @@ p{
 #menu-name1{
     background-color: brown;
     position: relative;
-    float: right;
+   
 }
 #menu-name2{
     background-color: brown;
     position: relative;
-    float: right;
+    
 }
 #menu-name3{
     background-color: brown;
     position: relative;
-    float: right;
+    
 }
 #menu-description1{
     width: 300px;
