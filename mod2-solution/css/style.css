@@ -13,6 +13,7 @@ h1{
 
 div#container1{
     background-color: aquamarine;
+    position: relative;
     
 }
 div#container2{
@@ -29,17 +30,40 @@ p{
     margin-bottom: 15px;
 }
 
+#menu-name1{
+    background-color: brown;
+    position: relative;
+    float: right;
+}
 #menu-name2{
     background-color: brown;
     position: relative;
-    top: 0px;
-    right: 20px;
+    float: right;
+}
+#menu-name3{
+    background-color: brown;
+    position: relative;
+    float: right;
+}
+#menu-description1{
+    width: 300px;
+    height: 300px;
+
+}
+#menu-description2{
+    width: 300px;
+    height: 300px;
+
+    
+}
+#menu-description3{
+    width: 300px;
+    height: 300px;
+
+    
 }
 
-#menu-description3{
-    text-justify: auto;
-    padding: 50px 20px 50px 20px;
-}
+
 
 
 
