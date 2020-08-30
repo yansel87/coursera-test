@@ -12,17 +12,20 @@ h1{
 }
 
 div#container1{
-    background-color: aquamarine;
+    background-color: rgb(85, 88, 87);
     position: relative;
+    padding: 10px;
     
 }
 div#container2{
-    background-color: bisque;
+    background-color: rgb(85, 88, 87);
     position: relative;
+    padding: 10px;
 }
 div#container3{
-    background-color:blanchedalmond;
+    background-color:rgb(85, 88, 87);
     position: relative;
+    padding: 10px;
 }
 
 p{
