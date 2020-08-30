@@ -12,18 +12,18 @@ h1{
 }
 
 div#container1{
-    background-color: rgb(85, 88, 87);
+    background-color: rgb(201, 211, 208);
     position: relative;
     padding: 10px;
     
 }
 div#container2{
-    background-color: rgb(85, 88, 87);
+    background-color: rgb(201, 211, 208);
     position: relative;
     padding: 10px;
 }
 div#container3{
-    background-color:rgb(85, 88, 87);
+    background-color:rgb(201, 211, 208);
     position: relative;
     padding: 10px;
 }
@@ -38,24 +38,26 @@ p{
 }
 
 #menu-name1{
-    background-color: brown;
-    position: relative;
+    background-color: rgb(212, 247, 130);
+    position: absolute;
     left: 280px;
-    margin: 0px;
-   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 #menu-name2{
-    background-color: brown;
-    position: relative;
+    background-color: rgb(74, 190, 236);
+    position: absolute;
     left: 280px;
-    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
     
 }
 #menu-name3{
-    background-color: brown;
-    position: relative;
+    background-color: rgb(243, 54, 54);
+    position: absolute;
     left: 280px;
-    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 #menu-description1{
     width: 500px;
