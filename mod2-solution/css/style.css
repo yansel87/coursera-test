@@ -11,16 +11,16 @@ h1{
 
 }
 
-#container1{
+div#container1{
     background-color: aquamarine;
     position: relative;
     
 }
-#container2{
+div#container2{
     background-color: bisque;
     position: relative;
 }
-#container3{
+div#container3{
     background-color:blanchedalmond;
     position: relative;
 }
