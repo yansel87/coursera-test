@@ -38,34 +38,37 @@ p{
 #menu-name1{
     background-color: brown;
     position: relative;
-    left: 200px;
+    left: 280px;
+    margin: 0px;
    
 }
 #menu-name2{
     background-color: brown;
     position: relative;
-    left: 200px;
+    left: 280px;
+    margin: 0px;
     
 }
 #menu-name3{
     background-color: brown;
     position: relative;
-    left: 200px;
+    left: 280px;
+    margin: 0px;
 }
 #menu-description1{
     width: 500px;
-    height: 300px;
+    height: 100px;
 
 }
 #menu-description2{
     width: 500px;
-    height: 300px;
+    height: 100px;
 
     
 }
 #menu-description3{
     width: 500px;
-    height: 300px;
+    height: 100px;
 
     
 }
