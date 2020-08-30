@@ -1,78 +1,97 @@
 
 *{
     box-sizing: border-box;
-    margin: 0px;
+    margin: 2px;
     padding: 0px;
 }
 
 h1{
 
     margin-bottom: 15px;
+    text-align: center;
+    text-decoration-style: dotted;
 
 }
 
 div#container1{
     background-color: rgb(201, 211, 208);
     position: relative;
-    padding: 10px;
+    border: 5px solid black;
+    top: 25px;
+    
+    
+
     
 }
 div#container2{
     background-color: rgb(201, 211, 208);
     position: relative;
-    padding: 10px;
+    border: 5px solid black;
+    top: 25px;
+   
 }
 div#container3{
     background-color:rgb(201, 211, 208);
     position: relative;
-    padding: 10px;
+    border: 5px solid black;
+    top: 25px;
+
+   
 }
 
 p{
-    width: 50px;
-    height: 50px;
+    width: auto;
+    height: auto;
     margin-bottom: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     
     
 }
 
 #menu-name1{
     background-color: rgb(212, 247, 130);
-    position: absolute;
-    left: 280px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: auto;
+    float: right;
+    border: 2px solid black;
+    
     
 }
 #menu-name2{
     background-color: rgb(74, 190, 236);
-    position: absolute;
-    left: 280px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: auto;
+    float: right;
+    border: 2px solid black;
+    
     
     
 }
 #menu-name3{
     background-color: rgb(243, 54, 54);
-    position: absolute;
-    left: 280px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    width: auto;
+    float: right;
+    border: 2px solid black;
+    
     
 }
 #menu-description1{
-    width: 500px;
-    height: 100px;
-
+   margin-top: 25px;
+   padding: 10px;
+    
 }
 #menu-description2{
-    width: 500px;
-    height: 100px;
+    margin-top: 25px;
+    padding: 10px;
+    
 
     
 }
 #menu-description3{
-    width: 500px;
-    height: 100px;
+    margin-top: 25px;
+    padding: 10px;
+    
 
     
 }
@@ -117,13 +136,13 @@ p{
 
     }
     .col-md-1{
-        width: 50%;
+        width: 45%;
     }
     .col-md-2{
-        width: 50%;
+        width: 45%;
     }
     .col-md-3{
-        width: 100%;
+        width: 90%;
     }
 
 }
