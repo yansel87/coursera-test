@@ -10,6 +10,7 @@ h1{
     margin-bottom: 15px;
     text-align: center;
     text-decoration-style: dotted;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 
 }
 
@@ -43,7 +44,7 @@ p{
     width: auto;
     height: auto;
     margin-bottom: 15px;
-    font-family: Helvetica, sans-serif;
+    font-family: "Comic Sans MS", cursive, sans-serif;;
     
     
 }
@@ -51,18 +52,24 @@ p{
 #menu-name1{
     background-color: rgb(212, 247, 130);
     position: relative;
+    font-size: 125%;
+    padding: 5px;
     width: auto;
     float: right;
-    border: 2px solid black;
+    border: 5px solid black;
+    
     
     
 }
 #menu-name2{
     background-color: rgb(74, 190, 236);
     position: relative;
+    font-size: 125%;
+    padding: 5px;
     width: auto;
     float: right;
-    border: 2px solid black;
+    border: 5px solid black;
+    
     
     
     
@@ -70,26 +77,29 @@ p{
 #menu-name3{
     background-color: rgb(243, 54, 54);
     position: relative;
+    font-size: 125%;
+    padding: 5px;
     width: auto;
     float: right;
-    border: 2px solid black;
+    border: 5px solid black;
+    
     
     
 }
 #menu-description1{
-   margin-top: 25px;
+   margin-top: 50px;
    padding: 10px;
     
 }
 #menu-description2{
-    margin-top: 25px;
+    margin-top: 50px;
     padding: 10px;
     
 
     
 }
 #menu-description3{
-    margin-top: 25px;
+    margin-top: 50px;
     padding: 10px;
     
 
@@ -116,13 +126,13 @@ p{
 
     }
     .col-lg-1{
-        width: 33%;
+        width: 31%;
     }
     .col-lg-2{
-        width: 33%;
+        width: 31%;
     }
     .col-lg-3{
-        width: 33%;
+        width: 31%;
     }
 
 }
