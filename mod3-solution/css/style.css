@@ -18,3 +18,60 @@ body {
     background-color: #3d383a;
 }
 
+.container {
+    margin: 0px;
+    max-width: 100%;
+}
+
+.navbar-header {
+    max-width: 100%;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+
+}
+
+#navbarSupportedContent{
+    text-align: center;
+}
+
+/******** LArge Device only *************/
+
+
+
+@media (min-width: 992px){
+
+    .navbar-nav, .mr-auto {
+        visibility: hidden; 
+
+}
+}
+/********* Boddy***********/
+
+div#container1{
+    background-color: rgb(201, 211, 208);
+    position: relative;
+    border: 5px solid black;
+    top: 25px;
+
+}
+
+h1{
+
+    margin-bottom: 15px;
+    text-align: center;
+    text-decoration-style: dotted;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: black;
+
+}
+
+div.container1{
+    background-color:rgb(201, 211, 208);
+    position: relative;
+    border: 5px solid black;
+    top: 25px;
+    padding: 10px;
+    margin: 10px;
+}
