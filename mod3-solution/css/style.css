@@ -1,0 +1,20 @@
+
+
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #d1e1e6;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: #3d383a;
+}
+
